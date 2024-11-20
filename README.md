@@ -2,6 +2,8 @@
 
 This project focuses on analyzing solar energy performance, capacity utilization, and efficiency trends across multiple sites. Using Tableau, the dashboard provides actionable insights into peak hour patterns, seasonal variations, and overall system utilization.
 
+![image](https://github.com/user-attachments/assets/74768fe2-5f11-421b-86d7-06990f79c0b0)
+
 ## Key Features
 
 - **Interactive Dashboard**: Visualizes solar power output, capacity metrics, and utilization trends.
